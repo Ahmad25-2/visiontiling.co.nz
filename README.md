@@ -1,2 +1,2 @@
-# visiontiling.co.nz
+# visiontiling
 vision tiling 
